@@ -18,4 +18,4 @@ Differentiable Digital Signal Procressing (DDSP) enables direct integration of c
 
 **Result Example:**
 
-[![YouTube](youtube.png)]()
+[![YouTube](youtube.png)](https://youtu.be/6x17-1_5Znc)
