@@ -10,6 +10,10 @@
 
 **Based on:** [DDSP](https://github.com/magenta/ddsp)
 
+**Article:** [Differentiable Digital Signal Processing](https://openreview.net/forum?id=B1x1ma4tDr)
+
+**Examples:** [Audio](https://storage.googleapis.com/ddsp/index.html)
+
 Differentiable Digital Signal Procressing (DDSP) enables direct integration of classic signal processing elements with end-to-end learning, utilizing strong inductive biases without sacrificing the expressive power of neural networks. This approach enables high-fidelity audio synthesis without the need for large autoregressive models or adversarial losses, and permits interpretable manipulation of each separate model component. In all figures below, linear-frequency log-magnitude spectrograms are used to visualize the audio, which is synthesized with a sample rate of 16kHz.
 
 **Result Example:**
