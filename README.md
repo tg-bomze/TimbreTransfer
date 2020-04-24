@@ -19,3 +19,16 @@ Differentiable Digital Signal Procressing (DDSP) enables direct integration of c
 **Result Example:**
 
 [![YouTube](youtube.png)](https://youtu.be/6x17-1_5Znc)
+
+**Citation**
+
+```latex
+@inproceedings{
+  engel2020ddsp,
+  title={DDSP: Differentiable Digital Signal Processing},
+  author={Jesse Engel and Lamtharn (Hanoi) Hantrakul and Chenjie Gu and Adam Roberts},
+  booktitle={International Conference on Learning Representations},
+  year={2020},
+  url={https://openreview.net/forum?id=B1x1ma4tDr}
+}
+```
